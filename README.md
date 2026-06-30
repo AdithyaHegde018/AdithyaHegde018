@@ -1,5 +1,25 @@
 # 💫 About Me:
-🔭 I’m currently working on Android application development using Jetpack Compose and modern UI practices<br>👯 I’m looking to collaborate on Open-source Android projects and innovative mobile app ideas<br>🤝 I’m looking for help with Advanced Android architecture (MVVM), backend integration, and real-world project scaling<br>🌱 I’m currently learning Kotlin, Jetpack Compose, REST API integration, and basics of Generative AI<br>💬 Ask me about Android development, UI/UX design, Jetpack Compose, and app architecture<br>⚡ Fun fact - I enjoy turning ideas into real mobile apps and continuously exploring new technologies 🚀
+
+🔭 I’m currently building Android applications using Kotlin, Jetpack Compose, Firebase, and modern Android development practices
+
+🌱 I’m continuously learning Android architecture, backend integration, cloud technologies, and AI-powered application development
+
+👯 I’m looking to collaborate on Android, AI/ML, IoT, and Open-Source projects
+
+🤝 I’m seeking opportunities to contribute to real-world software development projects and enhance my industry experience
+
+💬 Ask me about Android Development, Kotlin, Jetpack Compose, Firebase, Java, Python, AI/ML, and IoT Projects
+
+🎓 Bachelor of Engineering graduate in Artificial Intelligence and Machine Learning from Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM)
+
+🚀 Project Highlights:
+
+* Arogya-Nidhi – Healthcare Scheme Recommendation Android Application
+* Smart Fencing System – AI/ML and IoT-based Intrusion Detection System
+* Multiple Android applications developed using Jetpack Compose and Firebase
+
+⚡ Fun Fact: I enjoy transforming ideas into practical applications and continuously exploring emerging technologies in Android, AI, and Software Development.
+
 
 
 ## 🌐 Socials:
